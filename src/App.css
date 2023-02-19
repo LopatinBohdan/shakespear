@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+.box{
+  display:inline-flex;
+  margin: 5%;
+  text-align: left;
+}
+
+.content{
+  padding: 5%;
+  width: 50%;
+  display: flex;
+}
+
+.photo{
+  width: 40%;
+  display: flex;
+}
+
+.task2{
+  margin-left: 5%;
+}
